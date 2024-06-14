@@ -1,8 +1,8 @@
-# github-follow-bot
+# github-follower
 
 ```powershell
-git clone https://github.com/xorz57/github-follow-bot.git
-cd github-follow-bot
+git clone https://github.com/xorz57/github-follower.git
+cd github-follower
 python -m venv .venv
 .\.venv\Scripts\activate.bat
 pip install -r .\requirements.txt
